@@ -7,7 +7,3 @@ Secure Authentication |
 Discussion Threads |
 User Profiles |
 Real-time Updates
-
-## Database Diagram:
-
-![Untitled (8)](https://github.com/Harshsharma836/TechThread/assets/70514943/da4c2877-3510-480a-b12e-638f59ddb48b)
